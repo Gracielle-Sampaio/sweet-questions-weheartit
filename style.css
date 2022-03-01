@@ -10,12 +10,14 @@
     font-weight: normal;
     font-style: normal;
     list-style-type: none;
+    box-sizing: inherit;
 }
 
 body{
     background-color: rgba(250, 235, 215, 0.26);
     margin: auto;
     width: 800px;
+    box-sizing: border-box;
 }
 
 .top img{
@@ -24,6 +26,7 @@ body{
 
 main{
     background-color: rgb(255, 255, 255);
+    
    
 }
 h2{
